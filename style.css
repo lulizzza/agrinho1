@@ -3,12 +3,13 @@
     padding:0;
 }
 header{
-    
-    background-color: rgba(114, 163, 74, 0.726);
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 10px;
+    padding: 12px;
+    justify-content: space-around;
+    background-color: black;
+    color: blue;
+    
 }
 section{
     display: flex;
